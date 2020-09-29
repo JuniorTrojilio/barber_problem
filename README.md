@@ -1,4 +1,4 @@
-#PROBLEMA DO BARBEIRO DORMINHOCO
+# PROBLEMA DO BARBEIRO DORMINHOCO
 
 O barbeiro dorminhoco é um problema classico de programação concorrente.
 
@@ -10,3 +10,42 @@ o barbeiro tira um cochilo, assim que chega um novo cliente, o barbeiro acorda.
 
 Clientes chegam a cada determinado periodo de tempo randomico, e sentam nas
 cadeiras de esperas, caso estejam ocupadas o cliente vai embora.
+
+
+# Para simular o programa em sua maquina será necessário as seguintes configurações:
+
+- Node 12 +
+- Yarn ou npm instalados
+
+### Clone o repositório em sua maquina através do comando:
+
+```
+git clone https://github.com/JuniorTrojilio/barber_problem.git
+```
+
+### Navegue até a pasta
+```
+cd barber_problem
+```
+
+### Inicir o yarn ou o npm com:
+
+```
+yarn
+```
+
+ou
+
+```
+npm install
+```
+
+### Rode o projeto, ele é um programa de linha de comando e conseguirá acompanhar o log no terminal
+
+```
+yarn dev
+```
+ou
+```
+npm run dev
+```
