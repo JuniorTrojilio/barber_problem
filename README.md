@@ -1,5 +1,7 @@
 # PROBLEMA DO BARBEIRO DORMINHOCO
 
+## Osmar Trojilio Junior RA:2960 ECOM6S
+
 O barbeiro dorminhoco é um problema classico de programação concorrente.
 
 Funciona da seguinte maneira:
@@ -28,7 +30,7 @@ git clone https://github.com/JuniorTrojilio/barber_problem.git
 cd barber_problem
 ```
 
-### Inicir o yarn ou o npm com:
+### Iniciar o yarn ou o npm com:
 
 ```
 yarn
